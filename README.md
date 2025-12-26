@@ -1,5 +1,2 @@
 # Binary Harbinger
-
-***
-## 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=binaryharbinger&show_icons=true&theme=github_dark)](https://github.com/binaryharbinger/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryHarbinger&layout=compact&theme=github_dark"><br/>
+![GitHub Card](https://githubcard.com/g/-06_4U3r.svg)
